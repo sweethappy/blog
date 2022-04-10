@@ -1,0 +1,128 @@
+2022-03-15 09:46:35.085  INFO 17236 --- [http-nio-8080-exec-10] com.yjh.blob.aspect.LogAspect            : Request:RequestLog{url='/index', ip='0:0:0:0:0:0:0:1', classMethod='com.yjh.blob.web.IndexController index', args=[]}
+2022-03-15 09:46:35.095  INFO 17236 --- [http-nio-8080-exec-10] com.yjh.blob.aspect.LogAspect            : ----------------doBefore------------
+2022-03-15 09:46:35.096  INFO 17236 --- [http-nio-8080-exec-10] com.yjh.blob.aspect.LogAspect            : ---------------doAfterReturn--------index
+2022-03-15 09:48:15.819  INFO 17236 --- [http-nio-8080-exec-9] com.yjh.blob.aspect.LogAspect            : Request:RequestLog{url='/index', ip='0:0:0:0:0:0:0:1', classMethod='com.yjh.blob.web.IndexController index', args=[]}
+2022-03-15 09:48:15.820  INFO 17236 --- [http-nio-8080-exec-9] com.yjh.blob.aspect.LogAspect            : ----------------doBefore------------
+2022-03-15 09:48:15.820  INFO 17236 --- [http-nio-8080-exec-9] com.yjh.blob.aspect.LogAspect            : ---------------doAfterReturn--------index
+2022-03-15 09:49:30.521  INFO 17236 --- [http-nio-8080-exec-2] com.yjh.blob.aspect.LogAspect            : Request:RequestLog{url='/index', ip='0:0:0:0:0:0:0:1', classMethod='com.yjh.blob.web.IndexController index', args=[]}
+2022-03-15 09:49:30.521  INFO 17236 --- [http-nio-8080-exec-2] com.yjh.blob.aspect.LogAspect            : ----------------doBefore------------
+2022-03-15 09:49:30.521  INFO 17236 --- [http-nio-8080-exec-2] com.yjh.blob.aspect.LogAspect            : ---------------doAfterReturn--------index
+2022-03-15 09:51:12.065  INFO 17236 --- [http-nio-8080-exec-7] com.yjh.blob.aspect.LogAspect            : Request:RequestLog{url='/index', ip='0:0:0:0:0:0:0:1', classMethod='com.yjh.blob.web.IndexController index', args=[]}
+2022-03-15 09:51:12.065  INFO 17236 --- [http-nio-8080-exec-7] com.yjh.blob.aspect.LogAspect            : ----------------doBefore------------
+2022-03-15 09:51:12.065  INFO 17236 --- [http-nio-8080-exec-7] com.yjh.blob.aspect.LogAspect            : ---------------doAfterReturn--------index
+2022-03-15 09:56:11.918  INFO 17236 --- [http-nio-8080-exec-4] com.yjh.blob.aspect.LogAspect            : Request:RequestLog{url='/index', ip='0:0:0:0:0:0:0:1', classMethod='com.yjh.blob.web.IndexController index', args=[]}
+2022-03-15 09:56:11.918  INFO 17236 --- [http-nio-8080-exec-4] com.yjh.blob.aspect.LogAspect            : ----------------doBefore------------
+2022-03-15 09:56:11.918  INFO 17236 --- [http-nio-8080-exec-4] com.yjh.blob.aspect.LogAspect            : ---------------doAfterReturn--------index
+2022-03-15 09:58:36.019  INFO 17236 --- [http-nio-8080-exec-8] com.yjh.blob.aspect.LogAspect            : Request:RequestLog{url='/index', ip='0:0:0:0:0:0:0:1', classMethod='com.yjh.blob.web.IndexController index', args=[]}
+2022-03-15 09:58:36.019  INFO 17236 --- [http-nio-8080-exec-8] com.yjh.blob.aspect.LogAspect            : ----------------doBefore------------
+2022-03-15 09:58:36.020  INFO 17236 --- [http-nio-8080-exec-8] com.yjh.blob.aspect.LogAspect            : ---------------doAfterReturn--------index
+2022-03-15 09:59:14.112  INFO 17236 --- [http-nio-8080-exec-7] com.yjh.blob.aspect.LogAspect            : Request:RequestLog{url='/index', ip='0:0:0:0:0:0:0:1', classMethod='com.yjh.blob.web.IndexController index', args=[]}
+2022-03-15 09:59:14.113  INFO 17236 --- [http-nio-8080-exec-7] com.yjh.blob.aspect.LogAspect            : ----------------doBefore------------
+2022-03-15 09:59:14.113  INFO 17236 --- [http-nio-8080-exec-7] com.yjh.blob.aspect.LogAspect            : ---------------doAfterReturn--------index
+2022-03-15 10:02:27.215  INFO 17236 --- [http-nio-8080-exec-5] com.yjh.blob.aspect.LogAspect            : Request:RequestLog{url='/index', ip='0:0:0:0:0:0:0:1', classMethod='com.yjh.blob.web.IndexController index', args=[]}
+2022-03-15 10:02:27.215  INFO 17236 --- [http-nio-8080-exec-5] com.yjh.blob.aspect.LogAspect            : ----------------doBefore------------
+2022-03-15 10:02:27.215  INFO 17236 --- [http-nio-8080-exec-5] com.yjh.blob.aspect.LogAspect            : ---------------doAfterReturn--------index
+2022-03-15 10:06:12.015  INFO 17236 --- [http-nio-8080-exec-6] com.yjh.blob.aspect.LogAspect            : Request:RequestLog{url='/index', ip='0:0:0:0:0:0:0:1', classMethod='com.yjh.blob.web.IndexController index', args=[]}
+2022-03-15 10:06:12.016  INFO 17236 --- [http-nio-8080-exec-6] com.yjh.blob.aspect.LogAspect            : ----------------doBefore------------
+2022-03-15 10:06:12.016  INFO 17236 --- [http-nio-8080-exec-6] com.yjh.blob.aspect.LogAspect            : ---------------doAfterReturn--------index
+2022-03-15 10:07:38.259  INFO 17236 --- [http-nio-8080-exec-10] com.yjh.blob.aspect.LogAspect            : Request:RequestLog{url='/index', ip='0:0:0:0:0:0:0:1', classMethod='com.yjh.blob.web.IndexController index', args=[]}
+2022-03-15 10:07:38.260  INFO 17236 --- [http-nio-8080-exec-10] com.yjh.blob.aspect.LogAspect            : ----------------doBefore------------
+2022-03-15 10:07:38.260  INFO 17236 --- [http-nio-8080-exec-10] com.yjh.blob.aspect.LogAspect            : ---------------doAfterReturn--------index
+2022-03-15 10:46:26.634 ERROR 18144 --- [restartedMain] o.s.b.l.LoggingApplicationListener       : Cannot set level: dubug for 'com.yjh.blob'
+2022-03-15 10:46:26.975  INFO 18144 --- [restartedMain] com.yjh.blob.BlobApplication             : Starting BlobApplication on DESKTOP-OTV15C3 with PID 18144 (E:\IDEAworkspace\myblog\target\classes started by yjh in E:\IDEAworkspace\myblog)
+2022-03-15 10:46:26.975  INFO 18144 --- [restartedMain] com.yjh.blob.BlobApplication             : The following profiles are active: dev
+2022-03-15 10:46:28.292  INFO 18144 --- [restartedMain] ationConfigEmbeddedWebApplicationContext : Refreshing org.springframework.boot.context.embedded.AnnotationConfigEmbeddedWebApplicationContext@4cbc69ee: startup date [Tue Mar 15 10:46:28 CST 2022]; root of context hierarchy
+2022-03-15 10:46:33.180  INFO 18144 --- [restartedMain] s.b.c.e.t.TomcatEmbeddedServletContainer : Tomcat initialized with port(s): 8080 (http)
+2022-03-15 10:46:33.192  INFO 18144 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-03-15 10:46:33.194  INFO 18144 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet Engine: Apache Tomcat/8.5.20
+2022-03-15 10:46:33.357  INFO 18144 --- [localhost-startStop-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-03-15 10:46:33.357  INFO 18144 --- [localhost-startStop-1] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 5066 ms
+2022-03-15 10:46:33.650  INFO 18144 --- [localhost-startStop-1] o.s.b.w.servlet.ServletRegistrationBean  : Mapping servlet: 'dispatcherServlet' to [/]
+2022-03-15 10:46:33.656  INFO 18144 --- [localhost-startStop-1] o.s.b.w.servlet.FilterRegistrationBean   : Mapping filter: 'characterEncodingFilter' to: [/*]
+2022-03-15 10:46:33.657  INFO 18144 --- [localhost-startStop-1] o.s.b.w.servlet.FilterRegistrationBean   : Mapping filter: 'hiddenHttpMethodFilter' to: [/*]
+2022-03-15 10:46:33.657  INFO 18144 --- [localhost-startStop-1] o.s.b.w.servlet.FilterRegistrationBean   : Mapping filter: 'httpPutFormContentFilter' to: [/*]
+2022-03-15 10:46:33.657  INFO 18144 --- [localhost-startStop-1] o.s.b.w.servlet.FilterRegistrationBean   : Mapping filter: 'requestContextFilter' to: [/*]
+2022-03-15 10:46:34.952  INFO 18144 --- [restartedMain] j.LocalContainerEntityManagerFactoryBean : Building JPA container EntityManagerFactory for persistence unit 'default'
+2022-03-15 10:46:34.982  INFO 18144 --- [restartedMain] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+2022-03-15 10:46:35.456  INFO 18144 --- [restartedMain] org.hibernate.Version                    : HHH000412: Hibernate Core {5.0.12.Final}
+2022-03-15 10:46:35.458  INFO 18144 --- [restartedMain] org.hibernate.cfg.Environment            : HHH000206: hibernate.properties not found
+2022-03-15 10:46:35.459  INFO 18144 --- [restartedMain] org.hibernate.cfg.Environment            : HHH000021: Bytecode provider name : javassist
+2022-03-15 10:46:35.580  INFO 18144 --- [restartedMain] o.hibernate.annotations.common.Version   : HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+2022-03-15 10:46:35.984  INFO 18144 --- [restartedMain] org.hibernate.dialect.Dialect            : HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2022-03-15 10:46:36.368  INFO 18144 --- [restartedMain] org.hibernate.tool.hbm2ddl.SchemaUpdate  : HHH000228: Running hbm2ddl schema update
+2022-03-15 10:46:36.464  INFO 18144 --- [restartedMain] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2022-03-15 10:46:37.073  INFO 18144 --- [restartedMain] s.w.s.m.m.a.RequestMappingHandlerAdapter : Looking for @ControllerAdvice: org.springframework.boot.context.embedded.AnnotationConfigEmbeddedWebApplicationContext@4cbc69ee: startup date [Tue Mar 15 10:46:28 CST 2022]; root of context hierarchy
+2022-03-15 10:46:37.477  INFO 18144 --- [restartedMain] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/index]}" onto public java.lang.String com.yjh.blob.web.IndexController.index()
+2022-03-15 10:46:37.482  INFO 18144 --- [restartedMain] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/error]}" onto public org.springframework.http.ResponseEntity<java.util.Map<java.lang.String, java.lang.Object>> org.springframework.boot.autoconfigure.web.BasicErrorController.error(javax.servlet.http.HttpServletRequest)
+2022-03-15 10:46:37.483  INFO 18144 --- [restartedMain] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/error],produces=[text/html]}" onto public org.springframework.web.servlet.ModelAndView org.springframework.boot.autoconfigure.web.BasicErrorController.errorHtml(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)
+2022-03-15 10:46:37.577  INFO 18144 --- [restartedMain] o.s.w.s.handler.SimpleUrlHandlerMapping  : Mapped URL path [/webjars/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+2022-03-15 10:46:37.578  INFO 18144 --- [restartedMain] o.s.w.s.handler.SimpleUrlHandlerMapping  : Mapped URL path [/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+2022-03-15 10:46:37.616  INFO 18144 --- [restartedMain] .m.m.a.ExceptionHandlerExceptionResolver : Detected @ExceptionHandler methods in controllerAdvice
+2022-03-15 10:46:37.662  INFO 18144 --- [restartedMain] o.s.w.s.handler.SimpleUrlHandlerMapping  : Mapped URL path [/**/favicon.ico] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+2022-03-15 10:46:38.925  INFO 18144 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2022-03-15 10:46:39.143  INFO 18144 --- [restartedMain] o.s.j.e.a.AnnotationMBeanExporter        : Registering beans for JMX exposure on startup
+2022-03-15 10:46:39.283  INFO 18144 --- [restartedMain] s.b.c.e.t.TomcatEmbeddedServletContainer : Tomcat started on port(s): 8080 (http)
+2022-03-15 10:46:39.292  INFO 18144 --- [restartedMain] com.yjh.blob.BlobApplication             : Started BlobApplication in 13.589 seconds (JVM running for 25.926)
+2022-03-15 10:48:54.506  INFO 18144 --- [http-nio-8080-exec-6] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring FrameworkServlet 'dispatcherServlet'
+2022-03-15 10:48:54.507  INFO 18144 --- [http-nio-8080-exec-6] o.s.web.servlet.DispatcherServlet        : FrameworkServlet 'dispatcherServlet': initialization started
+2022-03-15 10:48:54.578  INFO 18144 --- [http-nio-8080-exec-6] o.s.web.servlet.DispatcherServlet        : FrameworkServlet 'dispatcherServlet': initialization completed in 70 ms
+2022-03-15 10:48:57.922  INFO 18144 --- [http-nio-8080-exec-8] com.yjh.blob.aspect.LogAspect            : Request:RequestLog{url='/index', ip='0:0:0:0:0:0:0:1', classMethod='com.yjh.blob.web.IndexController index', args=[]}
+2022-03-15 10:48:57.923  INFO 18144 --- [http-nio-8080-exec-8] com.yjh.blob.aspect.LogAspect            : ----------------doBefore------------
+2022-03-15 10:48:57.926  INFO 18144 --- [http-nio-8080-exec-8] com.yjh.blob.aspect.LogAspect            : ---------------doAfterReturn--------index
+2022-03-15 10:58:52.488  INFO 18144 --- [http-nio-8080-exec-2] com.yjh.blob.aspect.LogAspect            : Request:RequestLog{url='/index', ip='0:0:0:0:0:0:0:1', classMethod='com.yjh.blob.web.IndexController index', args=[]}
+2022-03-15 10:58:52.488  INFO 18144 --- [http-nio-8080-exec-2] com.yjh.blob.aspect.LogAspect            : ----------------doBefore------------
+2022-03-15 10:58:52.488  INFO 18144 --- [http-nio-8080-exec-2] com.yjh.blob.aspect.LogAspect            : ---------------doAfterReturn--------index
+2022-03-15 20:14:13.510  INFO 18144 --- [Thread-31] ationConfigEmbeddedWebApplicationContext : Closing org.springframework.boot.context.embedded.AnnotationConfigEmbeddedWebApplicationContext@4cbc69ee: startup date [Tue Mar 15 10:46:28 CST 2022]; root of context hierarchy
+2022-03-15 20:14:14.609  INFO 18144 --- [Thread-31] o.s.j.e.a.AnnotationMBeanExporter        : Unregistering JMX-exposed beans on shutdown
+2022-03-15 20:14:14.759  INFO 18144 --- [Thread-31] j.LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
+2022-03-15 20:14:32.848 ERROR 7724 --- [restartedMain] o.s.b.l.LoggingApplicationListener       : Cannot set level: dubug for 'com.yjh.blob'
+2022-03-15 20:14:33.022  INFO 7724 --- [restartedMain] com.yjh.blob.BlobApplication             : Starting BlobApplication on DESKTOP-OTV15C3 with PID 7724 (E:\IDEAworkspace\myblog\target\classes started by yjh in E:\IDEAworkspace\myblog)
+2022-03-15 20:14:33.022  INFO 7724 --- [restartedMain] com.yjh.blob.BlobApplication             : The following profiles are active: dev
+2022-03-15 20:14:33.759  INFO 7724 --- [restartedMain] ationConfigEmbeddedWebApplicationContext : Refreshing org.springframework.boot.context.embedded.AnnotationConfigEmbeddedWebApplicationContext@73d9ffa7: startup date [Tue Mar 15 20:14:33 CST 2022]; root of context hierarchy
+2022-03-15 20:14:39.023  INFO 7724 --- [restartedMain] s.b.c.e.t.TomcatEmbeddedServletContainer : Tomcat initialized with port(s): 8080 (http)
+2022-03-15 20:14:39.086  INFO 7724 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-03-15 20:14:39.088  INFO 7724 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet Engine: Apache Tomcat/8.5.20
+2022-03-15 20:14:39.465  INFO 7724 --- [localhost-startStop-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-03-15 20:14:39.465  INFO 7724 --- [localhost-startStop-1] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 5706 ms
+2022-03-15 20:14:40.050  INFO 7724 --- [localhost-startStop-1] o.s.b.w.servlet.ServletRegistrationBean  : Mapping servlet: 'dispatcherServlet' to [/]
+2022-03-15 20:14:40.070  INFO 7724 --- [localhost-startStop-1] o.s.b.w.servlet.FilterRegistrationBean   : Mapping filter: 'characterEncodingFilter' to: [/*]
+2022-03-15 20:14:40.072  INFO 7724 --- [localhost-startStop-1] o.s.b.w.servlet.FilterRegistrationBean   : Mapping filter: 'hiddenHttpMethodFilter' to: [/*]
+2022-03-15 20:14:40.073  INFO 7724 --- [localhost-startStop-1] o.s.b.w.servlet.FilterRegistrationBean   : Mapping filter: 'httpPutFormContentFilter' to: [/*]
+2022-03-15 20:14:40.083  INFO 7724 --- [localhost-startStop-1] o.s.b.w.servlet.FilterRegistrationBean   : Mapping filter: 'requestContextFilter' to: [/*]
+2022-03-15 20:14:41.367  INFO 7724 --- [restartedMain] j.LocalContainerEntityManagerFactoryBean : Building JPA container EntityManagerFactory for persistence unit 'default'
+2022-03-15 20:14:41.400  INFO 7724 --- [restartedMain] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+2022-03-15 20:14:41.834  INFO 7724 --- [restartedMain] org.hibernate.Version                    : HHH000412: Hibernate Core {5.0.12.Final}
+2022-03-15 20:14:41.836  INFO 7724 --- [restartedMain] org.hibernate.cfg.Environment            : HHH000206: hibernate.properties not found
+2022-03-15 20:14:41.837  INFO 7724 --- [restartedMain] org.hibernate.cfg.Environment            : HHH000021: Bytecode provider name : javassist
+2022-03-15 20:14:41.948  INFO 7724 --- [restartedMain] o.hibernate.annotations.common.Version   : HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+2022-03-15 20:14:42.451  INFO 7724 --- [restartedMain] org.hibernate.dialect.Dialect            : HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2022-03-15 20:14:43.632  INFO 7724 --- [restartedMain] org.hibernate.tool.hbm2ddl.SchemaUpdate  : HHH000228: Running hbm2ddl schema update
+2022-03-15 20:14:43.659  INFO 7724 --- [restartedMain] rmationExtractorJdbcDatabaseMetaDataImpl : HHH000262: Table not found: t_blog
+2022-03-15 20:14:43.662  INFO 7724 --- [restartedMain] rmationExtractorJdbcDatabaseMetaDataImpl : HHH000262: Table not found: t_blog
+2022-03-15 20:14:43.952  INFO 7724 --- [restartedMain] rmationExtractorJdbcDatabaseMetaDataImpl : HHH000262: Table not found: t_blog_tags
+2022-03-15 20:14:43.963  INFO 7724 --- [restartedMain] rmationExtractorJdbcDatabaseMetaDataImpl : HHH000262: Table not found: t_blog_tags
+2022-03-15 20:14:44.021  INFO 7724 --- [restartedMain] rmationExtractorJdbcDatabaseMetaDataImpl : HHH000262: Table not found: t_comment
+2022-03-15 20:14:44.022  INFO 7724 --- [restartedMain] rmationExtractorJdbcDatabaseMetaDataImpl : HHH000262: Table not found: t_comment
+2022-03-15 20:14:44.053  INFO 7724 --- [restartedMain] rmationExtractorJdbcDatabaseMetaDataImpl : HHH000262: Table not found: t_tag
+2022-03-15 20:14:44.055  INFO 7724 --- [restartedMain] rmationExtractorJdbcDatabaseMetaDataImpl : HHH000262: Table not found: t_tag
+2022-03-15 20:14:44.150  INFO 7724 --- [restartedMain] rmationExtractorJdbcDatabaseMetaDataImpl : HHH000262: Table not found: t_type
+2022-03-15 20:14:44.152  INFO 7724 --- [restartedMain] rmationExtractorJdbcDatabaseMetaDataImpl : HHH000262: Table not found: t_type
+2022-03-15 20:14:44.187  INFO 7724 --- [restartedMain] rmationExtractorJdbcDatabaseMetaDataImpl : HHH000262: Table not found: t_user
+2022-03-15 20:14:44.189  INFO 7724 --- [restartedMain] rmationExtractorJdbcDatabaseMetaDataImpl : HHH000262: Table not found: t_user
+2022-03-15 20:14:44.989  INFO 7724 --- [restartedMain] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2022-03-15 20:14:46.977  INFO 7724 --- [restartedMain] s.w.s.m.m.a.RequestMappingHandlerAdapter : Looking for @ControllerAdvice: org.springframework.boot.context.embedded.AnnotationConfigEmbeddedWebApplicationContext@73d9ffa7: startup date [Tue Mar 15 20:14:33 CST 2022]; root of context hierarchy
+2022-03-15 20:14:47.150  INFO 7724 --- [restartedMain] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/index]}" onto public java.lang.String com.yjh.blob.web.IndexController.index()
+2022-03-15 20:14:47.163  INFO 7724 --- [restartedMain] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/error]}" onto public org.springframework.http.ResponseEntity<java.util.Map<java.lang.String, java.lang.Object>> org.springframework.boot.autoconfigure.web.BasicErrorController.error(javax.servlet.http.HttpServletRequest)
+2022-03-15 20:14:47.164  INFO 7724 --- [restartedMain] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/error],produces=[text/html]}" onto public org.springframework.web.servlet.ModelAndView org.springframework.boot.autoconfigure.web.BasicErrorController.errorHtml(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)
+2022-03-15 20:14:47.262  INFO 7724 --- [restartedMain] o.s.w.s.handler.SimpleUrlHandlerMapping  : Mapped URL path [/webjars/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+2022-03-15 20:14:47.262  INFO 7724 --- [restartedMain] o.s.w.s.handler.SimpleUrlHandlerMapping  : Mapped URL path [/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+2022-03-15 20:14:47.314  INFO 7724 --- [restartedMain] .m.m.a.ExceptionHandlerExceptionResolver : Detected @ExceptionHandler methods in controllerAdvice
+2022-03-15 20:14:47.372  INFO 7724 --- [restartedMain] o.s.w.s.handler.SimpleUrlHandlerMapping  : Mapped URL path [/**/favicon.ico] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+2022-03-15 20:14:49.991  INFO 7724 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2022-03-15 20:14:50.098  INFO 7724 --- [restartedMain] o.s.j.e.a.AnnotationMBeanExporter        : Registering beans for JMX exposure on startup
+2022-03-15 20:14:50.183  INFO 7724 --- [restartedMain] s.b.c.e.t.TomcatEmbeddedServletContainer : Tomcat started on port(s): 8080 (http)
+2022-03-15 20:14:50.191  INFO 7724 --- [restartedMain] com.yjh.blob.BlobApplication             : Started BlobApplication in 18.009 seconds (JVM running for 21.524)
